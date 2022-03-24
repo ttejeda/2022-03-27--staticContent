@@ -1,0 +1,23 @@
+{
+  "name": "2022-03-27--staticcontent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttejeda/2022-03-27--staticContent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttejeda/2022-03-27--staticContent/issues"
+  },
+  "homepage": "https://github.com/ttejeda/2022-03-27--staticContent#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
